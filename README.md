@@ -35,27 +35,8 @@ That's how you can easily become a member of the GitHub Documentation community.
 In addition to the README you're reading right now, this repo includes other READMEs that describe the purpose of each subdirectory in more detail:
 
 - [content/README.md](content/README.md)
-- [content/graphql/README.md](content/graphql/README.md)
-- [content/rest/README.md](content/rest/README.md)
-- [contributing/README.md](contributing/README.md)
+- [konten/graphql/README.md](content/graphql/README.md)
+- [konten/istirahat/README.md](konten/istirahat/README.md)
+- [berkontribusi/README.md](berkontribusi/README.md)
 - [data/README.md](data/README.md)
-- [data/reusables/README.md](data/reusables/README.md)
-- [data/variables/README.md](data/variables/README.md)
-- [components/README.md](components/README.md)
-- [lib/liquid-tags/README.md](lib/liquid-tags/README.md)
-- [middleware/README.md](middleware/README.md)
-- [script/README.md](script/README.md)
-- [stylesheets/README.md](stylesheets/README.md)
-- [tests/README.md](tests/README.md)
-
-## License
-
-The GitHub product documentation in the assets, content, and data folders are licensed under a [CC-BY license](LICENSE).
-
-All other code in this repository is licensed under the [MIT license](LICENSE-CODE).
-
-When using the GitHub logos, be sure to follow the [GitHub logo guidelines](https://github.com/logos).
-
-## Thanks :purple_heart:
-
-Thanks for all your contributions and efforts towards improving the GitHub documentation. We thank you for being part of our :sparkles: community :sparkles:!
+- [data/r
